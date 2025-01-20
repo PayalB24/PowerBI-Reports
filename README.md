@@ -11,11 +11,11 @@ Design a transport dashboard with a fundamental set of visualizations.
 Sky Transport Dataset
 <h3>Analytics & Dashboard Insights</h3>
 The dashboard includes various KPIs and comparative visualizations:
-✅ KPIs: Total Miles, Revenue, and Cost
-✅ Revenue vs Miles by Shipping State
-✅ Revenue vs Miles by Shipping City
-✅ Total Trips vs Trips by Trip Types
-✅ % of Trips by Shipping State
+✅ KPIs: Total Miles, Revenue, and Cost<br>
+✅ Revenue vs Miles by Shipping State<br>
+✅ Revenue vs Miles by Shipping City<br>
+✅ Total Trips vs Trips by Trip Types<br>
+✅ % of Trips by Shipping State<br>
 ✅ Revenue Miles vs Total Miles
 
 <h3>Result & Outcome</h3>
